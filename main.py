@@ -35,7 +35,3 @@ print(rownanie1.pierwiastekDelta())
 rownanie1.rozwiazanie()
 FunkcjaKwadratowa(2, -5, 3).rozwiazanie()
 FunkcjaKwadratowa(2, 1, 3).rozwiazanie()
-
-# def rozwiazania(self):
-#
-# if (delta < 0):
